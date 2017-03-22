@@ -1,6 +1,6 @@
 #main_container {
-    width: 1024px;
     background-color: white;
+    border: solid 2px blue
 
 }
 
@@ -8,30 +8,40 @@
     border-top-width: 220px;
     background-color: #D2E5B5;
     height: 755px;
-    width: 150px
+    width: 150px;
+    border: solid 2px green
 }
 
 #top_box {
     width: 1024px;
-    background-color: #C5E2DD
+    background-color: #C5E2DD;
+    border: solid 2px yellow
 }
 
 #top_right_box {
     width: 150px;
     height: auto;
-    background-color: #D2E5B5
-}
-
-#menu_bar {
-    width: 1024px;
-    height: 40px;
-    margin-top: 180px;
-    border-top: 180px
+    background-color: #D2E5B5;
+    border: solid 2px orange
 }
 
 #logo {
     width 205px;
     position: relative;
     margin-left: auto;
-    margin-right: auto
+    margin-right: auto;
+    border: solid 2px red
+}
+
+#pic_box {
+    border: solid 10px purple;
+    position: absolute;
+    top: 244px;
+    left: 190px;
+    height: 470px;
+    width: 380px
+}
+
+#menu_bar {
+    width:
 }
