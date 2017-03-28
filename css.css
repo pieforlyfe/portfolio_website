@@ -1,6 +1,6 @@
 #main_container {
     background-color: white;
-    border: solid 2px blue
+
 
 }
 
@@ -9,20 +9,18 @@
     background-color: #D2E5B5;
     height: 755px;
     width: 150px;
-    border: solid 2px green
+
 }
 
 #top_box {
     width: 1024px;
     background-color: #C5E2DD;
-    border: solid 2px yellow
 }
 
 #top_right_box {
     width: 150px;
     height: auto;
     background-color: #D2E5B5;
-    border: solid 2px orange
 }
 
 #logo {
@@ -30,11 +28,10 @@
     position: relative;
     margin-left: auto;
     margin-right: auto;
-    border: solid 2px red
 }
 
 #pic_box {
-    border: solid 10px purple;
+
     position: absolute;
     top: 244px;
     left: 190px;
@@ -43,5 +40,28 @@
 }
 
 #menu_bar {
-    width:
+    position: absolute;
+    top: 165px;
+    background-color: #B4D1CB;
+    height: 40px;
+    width: 1024px
+}
+
+#welcome_box {
+    position: absolute;
+    top: 244px;
+    left: 608px;
+    background-color: #D2E5B5;
+    height: 230px;
+    width: 380px;
+}
+
+#contact_box {
+    position: absolute;
+    top: 515px;
+    left: 608px;
+    height: 200px;
+    width: 380px;
+    background-color: #D2E5B5;
+
 }
