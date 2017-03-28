@@ -63,5 +63,14 @@
     height: 200px;
     width: 380px;
     background-color: #D2E5B5;
+}
+
+#page_title {
+    position: absolute;
+    top: 0px;
+    left: 225px;
+    font-family: 'Sukhumvit Set';
+    color: white;
+    font-size: 0px;
 
 }
