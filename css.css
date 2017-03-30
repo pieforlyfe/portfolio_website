@@ -47,6 +47,10 @@
     width: 1024px
 }
 
+#button_1 {
+    left:
+}
+
 #welcome_box {
     position: absolute;
     top: 244px;
@@ -54,6 +58,11 @@
     background-color: #D2E5B5;
     height: 230px;
     width: 380px;
+    text-align: center;
+    color: white;
+    font-family: 'Sukhumvit Set';
+    font-size: 20px
+
 }
 
 #contact_box {
@@ -63,6 +72,10 @@
     height: 200px;
     width: 380px;
     background-color: #D2E5B5;
+    text-align: center;
+    color: white;
+    font-family: 'Sukhumvit Set';
+    font-size: 20px
 }
 
 #page_title {
@@ -71,6 +84,5 @@
     left: 225px;
     font-family: 'Sukhumvit Set';
     color: white;
-    font-size: 0px;
-
+    font-size: 32px;
 }
